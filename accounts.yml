@@ -2,7 +2,7 @@ build:
  version: "3.0"
   
 accounts:
- message: "Welcome to Accounts related local APIs"
+ message: "Welcome to Accounts related docker APIs"
  contactDetails:
   name: "Samuel Rógenes"
   email: "rogenescarvalho@hotmail.com"
